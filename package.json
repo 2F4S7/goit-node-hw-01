@@ -1,7 +1,7 @@
 {
   "name": "goit-node-hw-01",
   "version": "1.0.1",
-  "description": "",
+  "description": "Node.js home work",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/2F4S7/goit-node-hw-01.git"
   },
+  "keywords": [
+    "node"
+  ],
   "author": "Mykhail Prytychenko",
   "license": "ISC",
   "bugs": {
