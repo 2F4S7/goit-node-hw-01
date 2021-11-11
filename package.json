@@ -23,5 +23,8 @@
   "homepage": "https://github.com/2F4S7/goit-node-hw-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "commander": "^8.3.0"
   }
 }
