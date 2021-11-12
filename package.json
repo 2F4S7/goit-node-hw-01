@@ -3,18 +3,11 @@
   "version": "1.0.1",
   "description": "Node.js home work",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "startdemon": "nodemon index.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/2F4S7/goit-node-hw-01.git"
   },
-  "keywords": [
-    "node"
-  ],
+  "keywords": [],
   "author": "Mykhail Prytychenko",
   "license": "ISC",
   "bugs": {
@@ -25,6 +18,12 @@
     "nodemon": "^2.0.15"
   },
   "dependencies": {
-    "commander": "^8.3.0"
+    "commander": "^8.3.0",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
   }
 }
