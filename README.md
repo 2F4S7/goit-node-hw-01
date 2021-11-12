@@ -1,4 +1,4 @@
-# ⚡goit-node-hw-01
+# ⚡goit-node-hw-01 👨🏻‍💻
 
 ### Link [HomeWork](https://github.com/goitacademy/nodejs-homework/blob/master/homework-01/README.md)
 
